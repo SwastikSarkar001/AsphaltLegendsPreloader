@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111.96 153.73" id="A9">
+    <defs>
+        <linearGradient id="linear-gradient" x1="55.98" x2="55.98" y2="153.73">
+            <stop offset="0%" style="stop-color: #fefefe;" stop-opacity="1"/>
+            <stop offset="100%" style="stop-color: #d1d1d1;" stop-opacity="1"/>
+        </linearGradient>
+    </defs>
+    <g id="A9-path">
+        <path fill="url(#linear-gradient)" d="M0,0V74.45H86.56V110l-30.5,14.13L25.56,
+            110V95.36H0v28.78l56,29.59,
+            55.81-30L112,0ZM86.56,49.61h-61v-24h61Z"  />
+    </g>
+</svg>
